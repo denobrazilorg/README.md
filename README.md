@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/denobrazilorg">
-    <img src=".github/logo.png" width="400" alt="Deno Brazil">
+    <img src=".github/logo.svg" width="400" alt="Deno Brazil">
   </a>
 </p>
 <h1 align="center">Deno Brazil Community</h1>
