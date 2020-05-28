@@ -13,7 +13,7 @@
 </p>
 
 <h3 align="center">
-  <a href="https://www.denobrazil.org">Site Oficial</a>  <span> · </span>
+  <a href="https://www.denobrazil.org">Site Oficial</a>
 </h3>
 
 ---
